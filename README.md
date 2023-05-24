@@ -17,8 +17,6 @@
 </center>
 
 
-- 💬 Pergunte-me sobre **react, javaScript, styled-components/sass**
-
 - 📫 Como me encontrar? => **joaof082@gmail.com**
 
 <p align="left">
