@@ -17,10 +17,10 @@
 </center>
 
 
-- 📫 Como me encontrar? => **joaof082@gmail.com**
+- 📫 How to find me? => **joaof082@gmail.com**
 
 <p align="left">
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">connect with me:</h3>
 <a href="https://twitter.com/joao_pedro_rj_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joao_pedro_rj_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pinto-f0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="João Pedro" height="30" width="40" /></a>
 <a href="https://medium.com/@jonataspinto" target="blank"></a>
